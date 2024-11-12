@@ -3,7 +3,7 @@ library shared_value;
 import 'dart:async';
 import 'dart:math';
 import 'package:jaspr/jaspr.dart';
-import 'package:jaspr_shared_value/src/generic_inherited_model.dart';
+// import 'package:jaspr_shared_value/src/generic_inherited_model.dart';
 
 import 'inherited_model.dart';
 import 'manager_widget.dart';

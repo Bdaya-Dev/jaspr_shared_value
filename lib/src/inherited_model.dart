@@ -1,7 +1,5 @@
 import 'package:collection/collection.dart';
-
-import 'generic_inherited_model.dart';
-
+import 'package:jaspr/jaspr.dart';
 const mapEq = MapEquality(
   keys: DefaultEquality<int>(),
   values: DefaultEquality<double>(),
